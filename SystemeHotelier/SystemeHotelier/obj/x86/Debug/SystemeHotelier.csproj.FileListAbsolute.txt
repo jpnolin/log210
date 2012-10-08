@@ -1,0 +1,6 @@
+C:\Users\admin\Dropbox\LOG210\LOG210 PARTAGE\SystemeHotelier\SystemeHotelier\obj\x86\Debug\SystemeHotelier.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\LOG210\LOG210 PARTAGE\SystemeHotelier\SystemeHotelier\obj\x86\Debug\WindowsFormsApplication2.FenetreConfirmation.resources
+C:\Users\admin\Dropbox\LOG210\LOG210 PARTAGE\SystemeHotelier\SystemeHotelier\obj\x86\Debug\WindowsFormsApplication2.FenetreNoConfirmation.resources
+C:\Users\admin\Dropbox\LOG210\LOG210 PARTAGE\SystemeHotelier\SystemeHotelier\obj\x86\Debug\WindowsFormsApplication2.FenetreReservation.resources
+C:\Users\admin\Dropbox\LOG210\LOG210 PARTAGE\SystemeHotelier\SystemeHotelier\obj\x86\Debug\SystemeHotelier.Properties.Resources.resources
+C:\Users\admin\Dropbox\LOG210\LOG210 PARTAGE\SystemeHotelier\SystemeHotelier\obj\x86\Debug\SystemeHotelier.csproj.GenerateResource.Cache
